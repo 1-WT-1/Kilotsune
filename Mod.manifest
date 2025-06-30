@@ -2,10 +2,10 @@
 
 id="wt.Kilotsune"
 name="Kilotsune"
-version="0.1.0"
+version="0.1.1"
 version_major=0
 version_minor=1
-version_bugfix=0
+version_bugfix=1
 version_metadata=""
 description="KILOTSUNE_MOD_DESCRIPTION"
 group="ship"

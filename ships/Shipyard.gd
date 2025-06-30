@@ -2,7 +2,7 @@ extends "res://ships/Shipyard.gd"
 
 
 func _ready():
-	ships["Kilotsune"] = load("res://Kilotsune/ships/Kilotsune5.tscn")
+	ships["Kilotsune"] = load("res://Kilotsune/ships/Kilotsune.tscn")
 	configAlias["Kilotsune"] = "KITSUNE"
 	defaultShipConfig["Kilotsune"] = {
 		"config": {
