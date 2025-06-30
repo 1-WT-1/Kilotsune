@@ -1,0 +1,14 @@
+[package]
+
+id="wt.Kilotsune"
+name="Kilotsune"
+version="0.1.0"
+version_major=0
+version_minor=1
+version_bugfix=0
+version_metadata=""
+description="KILOTSUNE_MOD_DESCRIPTION"
+group="ship"
+github_homepage="https://github.com/1-WT-1/Kilotsune"
+github_releases="https://github.com/1-WT-1/Kilotsune/releases"
+discord_thread="https://discord.com/channels/426287934870781952/1384258526855299192"

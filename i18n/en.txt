@@ -1,0 +1,11 @@
+locale|en
+
+SHIP_KILOTSUNE|CS-HIS Kilotsune
+
+SHIP_KILOTSUNE_DESC| What likely began as a joke in a shipbuilder's cantina became a reality. A comically oversized and entirely bespoke take on the Kitsune, this vessel boasts a truly absurd cargo hold for those who value capacity over common sense.
+
+SHIP_KILOTSUNE_SPEC|Make: Custom Shipyards (Kitsune Chassis)\nLow-Stress Hardpoints: 3\nCrew: 8\nDry mass: 160,000 kg\nCargo bay (variable): 40,000-75,000 m^3\nProcessed cargo storage (combined): 360,000 kg
+
+SYSTEM_REACTOR_KILOTSUNE|CS-K120 Heavy Nuclear Reactor
+
+KILOTSUNE_MOD_DESCRIPTION|Adds the Kilotsune, variant of the Kitsune that is ten times larger.
